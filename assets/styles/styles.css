@@ -132,7 +132,7 @@ ul {
 
 /*** Experience ***/
 #experience {
-  background-color: #393939;
+  background-color: #1b1b1b;
   padding: 6em 4em 5.6em;
 }
 
@@ -172,7 +172,7 @@ ul {
 /*** work ***/
 #work {
   padding: 6em 4em 3em;
-  background-color: #fff;
+  background-color: #393939;
 }
 
 #work h2 {
@@ -292,9 +292,12 @@ ul {
 /*** footer starts ***/
 
 #footer {
+  background: #000;
   padding: 5em 4em 2em;
 }
-
+.logo {
+  width: 180px;
+}
 #footer #logo {
   background-color: rgba(255, 103, 68, 0.91);
   border-radius: 50%;
