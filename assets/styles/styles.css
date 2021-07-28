@@ -254,7 +254,10 @@ ul {
 
 /*** Footer Call-to-action ***/
 #footer-cta {
-  background-color: rgba(255, 103, 68, 0.91);
+  background-image: url(work-img.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   padding: 6em 4em 5.6em;
 }
 
